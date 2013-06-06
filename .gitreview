@@ -1,0 +1,5 @@
+[gerrit]
+host=caae217.sdn1.ams1.spil
+port=29418
+
+project=p2
