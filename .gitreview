@@ -1,4 +1,4 @@
 [gerrit]
-host=caae217.sdn1.ams1.spil
+host=localhost
 port=29418
 project=p2
