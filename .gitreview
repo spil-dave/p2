@@ -1,4 +1,4 @@
 [gerrit]
-host=localhost
+host=10.110.0.78
 port=29418
 project=p2
